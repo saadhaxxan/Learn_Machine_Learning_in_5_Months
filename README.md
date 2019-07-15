@@ -1,4 +1,4 @@
-# Learn_Machine_Learning_in_3_Months
+# Learn_Machine_Learning_in_5_Months
 
 This is the Curriculum for "Learn Machine Learning in 3 Months" 
 

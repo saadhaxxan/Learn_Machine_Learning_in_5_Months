@@ -1,6 +1,6 @@
 # Learn_Machine_Learning_in_5_Months
 
-This is the Curriculum for "Learn Machine Learning in 3 Months" 
+This is the Curriculum for "Learn Machine Learning in 5 Months" 
 
 # Month 1
 

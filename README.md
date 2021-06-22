@@ -6,7 +6,7 @@ This is the Curriculum for "Learn Machine Learning in 5 Months"
 
 ## Week 1,2 Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
 ## Week 3-4 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
@@ -14,18 +14,15 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
 ## Week 1,2,3 Probability
 https://youtube.com/playlist?list=PLcQCwsZDEzFm2pG7Dh1DrLFqWgSxhWd9_
-## Week 4 Algorithms
+
+## Week 4 Scikit Learn
 https://www.youtube.com/watch?v=pqNCD_5r0IU
 
 # Month 3
 
-## Week 1 
+## Week 1-2
 ### Maths for ML every Algorithm and Model
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
-
-## Week 2 
-Intro to ML (Udacity)
-https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
 ## Week 3-4
 ML Project Ideas

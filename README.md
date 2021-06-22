@@ -7,10 +7,8 @@ This is the Curriculum for "Learn Machine Learning in 5 Months"
 ## Week 1,2 Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-## Week 3 Calculus
+## Week 3-4 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-## Week 4 Essential Math for Machine Learning: Python Edition
-https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3
 
 # Month 2
 

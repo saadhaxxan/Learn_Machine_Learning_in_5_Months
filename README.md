@@ -15,7 +15,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 1,2,3 Probability
 https://youtube.com/playlist?list=PLcQCwsZDEzFm2pG7Dh1DrLFqWgSxhWd9_
 ## Week 4 Algorithms
-https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+https://www.youtube.com/watch?v=pqNCD_5r0IU
 
 # Month 3
 

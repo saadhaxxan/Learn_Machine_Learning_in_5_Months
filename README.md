@@ -13,7 +13,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 # Month 2
 
 ## Week 1,2,3 Probability
-https://youtube.com/playlist?list=PLcQCwsZDEzFm2pG7Dh1DrLFqWgSxhWd9_
+https://www.youtube.com/playlist?list=PLcQCwsZDEzFm2pG7Dh1DrLFqWgSxhWd9_
 
 ## Week 4 Scikit Learn
 https://www.youtube.com/watch?v=pqNCD_5r0IU

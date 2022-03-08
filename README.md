@@ -48,6 +48,9 @@ https://www.youtube.com/watch?v=tPYj3fFJGjk&t=1s
 ## Week 3-4 
 Re-implement DL projects from Siraj Raval's github
 https://github.com/llSourcell?tab=repositories
+<br>
 OR
+<br>
 Solve Challenges from Kaggle
+<br>
 https://kaggle.com

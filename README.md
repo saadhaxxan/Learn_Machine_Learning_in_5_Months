@@ -1,5 +1,8 @@
 # Learn Machine Learning in 5 Months 
 
+## Note: If you know concepts from one course you can skip it.
+
+
 # Month 1
 
 ## Week 1,2 Linear Algebra

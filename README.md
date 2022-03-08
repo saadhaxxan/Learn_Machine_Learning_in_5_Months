@@ -36,15 +36,18 @@ https://github.com/NirantK/awesome-project-ideas
 https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning
 
 ## Week 3,4
-## Intro to TensorFlow for Deep Learning byTensorFlow
+## Intro to TensorFlow for Deep Learning by TensorFlow
 https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 
 # Month 5 
 
 ## Week 1,2
-## Deep Learning with Tensorflow
+## Deep Learning with TensorFlow
 https://www.youtube.com/watch?v=tPYj3fFJGjk&t=1s
 
 ## Week 3-4 
 Re-implement DL projects from Siraj Raval's github
 https://github.com/llSourcell?tab=repositories
+OR
+Solve Challenges from Kaggle
+https://kaggle.com
